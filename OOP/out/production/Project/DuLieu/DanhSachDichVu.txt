@@ -1,0 +1,6 @@
+DV01;Nhà hàng sang trọng;500000
+DV02;Dịch vụ Spa;500000
+DV03;Dịch vụ phòng họp;3000000
+DV04;Dịch vụ giặt ủi là;200000
+DV05;Dịch vụ phòng 24/24;350000
+DV06;Phòng gym;15000

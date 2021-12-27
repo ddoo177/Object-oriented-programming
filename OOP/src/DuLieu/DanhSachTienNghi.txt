@@ -1,0 +1,10 @@
+TN01;Điện thoại bàn kết nối nội bộ
+TN02;Ổ điện 220V
+TN03;Bộ bàn ghế ăn uống
+TN04;Tivi 43" 
+TN05;Bộ ghế sofa cao cấp
+TN06;Giường King size
+TN07;Giường Twin 1m2
+TN08;Giường 1m8
+
+

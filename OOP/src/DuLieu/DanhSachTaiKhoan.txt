@@ -1,0 +1,3 @@
+admin;admin
+nhanvien1;12345
+khachhang;1234

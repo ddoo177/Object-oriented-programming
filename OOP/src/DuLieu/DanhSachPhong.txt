@@ -1,0 +1,10 @@
+PHG01;Đã thuê;1500000;Phòng VIP;2 giường, view biển, bồn tắm lớn
+PHG02;Trống;1500000;Phòng VIP;2 giường, view biển, bồn tắm lớn
+PHG03;Đã thuê;500000;Phòng đơn;1 giường, yên tĩnh, tiện nghi đầy đủ
+PHG04;Trống;500000;Phòng đơn;1 giường, yên tĩnh, tiện nghi đầy đủ
+PHG05;Trống;500000;Phòng đơn;1 giường, yên tĩnh, tiện nghi đầy đủ
+PHG06;Trống;500000;Phòng đơn;1 giường, yên tĩnh, tiện nghi đầy đủ
+PHG07;Trống;800000;Phòng đôi;1 giường lớn, tiện nghi cao cấp
+PHG08;Trống;800000;Phòng đôi;1 giường lớn, tiện nghi cao cấp
+PHG09;Trống;800000;Phòng đôi;1 giường lớn, tiện nghi cao cấp
+PHG10;Trống;800000;Phòng đôi;1 giường lớn, tiện nghi cao cấp
